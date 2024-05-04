@@ -8,6 +8,17 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=,js,html,ng,css,react,nodejs,mongo,git,vscode,docker"/>
+<img width="500px"  src="https://skillicons.dev/icons?i=,js,html,angular,css,react,nodejs,git,vscode,bootstrap,discord,npm,ts"/>
 </p>
 <br />
+
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+------
+
+Credit: [danielgallo78](https://github.com/danielgallo78)
