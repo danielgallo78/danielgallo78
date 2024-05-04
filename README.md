@@ -2,8 +2,8 @@
  
   <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">--Soy DanielGallo78-- </h1>
 
- 
-<p align="center"><img src="https://github.com/danielgallo78/danielgallo78/assets/130160711/e3f95f46-4699-4223-a46d-f7a1ce9b985e" width="550"/></p>
+<img align="right" height="350px" width= "370px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" /> 
+<p align="center"><img src="https://github.com/danielgallo78/danielgallo78/assets/130160711/e3f95f46-4699-4223-a46d-f7a1ce9b985e" height="350px" width="350px"/></p>
 </div>
 
 <!--Languages and Tools Section-->       
@@ -15,7 +15,6 @@
 
 
 
-<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
@@ -23,4 +22,5 @@
 
 ------
 
+<img align="right" width=70px height=70px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 Credit: [danielgallo78](https://github.com/danielgallo78)
