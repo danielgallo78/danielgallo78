@@ -16,10 +16,11 @@
 
 ** Hablando de Cosas Personales: **
 
-- 👨🏽‍💻 Esperando alguna buena oportunidad  .
-- 🌱 Actualmente estoy aprendiendo Angular.
-- 💬 Prioridad siguiente estudiar ingles.
-- 📫 Cómo comunicarse conmigo: gallojimcriptoken@gmail.com .
+- 👨🏽‍💻 Esperando alguna buena oportunidad  ❗❗❗.
+- 🌱 Actualmente estoy aprendiendo Angular 🅰️.
+- 💬 Prioridad siguiente estudiar ingles 📘.
+- 📫 Cómo comunicarse conmigo: gallojimcriptoken@gmail.com ☑️.
+- #️⃣ Lo que mas me intereso es BOOTSTRAP -  
 
 
 
