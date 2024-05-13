@@ -22,6 +22,20 @@
 - 📫 Cómo comunicarse conmigo: cuando este lo suficientemente listo ☑️.
 - #️⃣ Lo que mas me intereso es TODO -
 - <br>
+####HTML code
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <mate charest="utf-8" />
+        <title>Hello world!</title>
+    </head>
+    <body>
+        <h1>Hello world!</h1>
+    </body>
+</html>
+```
 ####Javascript　
 
 ```javascript
@@ -41,25 +55,7 @@ function test(){
 			return this;
         },
 
-		add : function(str){
-			alert("add", str);
-
-			return this;
-		},
-
-		remove : function(str){
-			alert("remove", str);
-
-			return this;
-		}
-    };
-    
-    box.fn.init.prototype = box.fn;
-    
-    window.box =box;
-})();
-
-var testBox = box();
+		var testBox = box();
 testBox.add("jQuery").remove("jQuery");
 ```
 
